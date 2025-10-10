@@ -3,7 +3,9 @@ Our CIV collection of CTF writeups, feel free to send in your own solutions to b
 
 | Activity | Placement | Year|
 |---|---|---|
-| PicoCTF  | --------- |2025|
-| US Cyber Challenge | ---|2025|
+| PicoCTF  | Top 4% (started a week late) |2025|
+| US Cyber Challenge | TC Qualifiers |2025|
+| PicoCTF  | TBD |2026|
+| US Cyber Challenge | TBD |2026|
 
 
