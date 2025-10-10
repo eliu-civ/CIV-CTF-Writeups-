@@ -1,7 +1,7 @@
 # CIV-CTF-Writeups-
 Our CIV collection of CTF writeups, feel free to send in your own solutions to be added to our club-wide repository!
 
-| Activity | - | -|
+| Activity | Placement | Year|
 |---|---|---|
-|C|C|C|
+| PicoCTF  | ----- |2025|
 
