@@ -5,6 +5,10 @@ Solves: 135,732
 Challenge Description: 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-10%20193343.png?raw=true>)
 
+## Method Walkthrough 
+### Solving by Pico Browser Webshell
+
+
 ### Reflections
 
 
