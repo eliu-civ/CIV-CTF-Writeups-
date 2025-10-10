@@ -22,7 +22,6 @@ Cat.jpg should now be saved to your directory. You can access this file directly
 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-10%20193533.png?raw=true>)
 
-![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-10%20195307.png>) 
 
 ### Reflections
 
