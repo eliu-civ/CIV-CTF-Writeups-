@@ -9,5 +9,6 @@ Our CIV collection of CTF writeups, feel free to send in your own solutions to b
 | US Cyber Challenge | TC Qualifiers |2025|
 | PicoCTF  | TBD |2026|
 | US Cyber Challenge | TBD |2026|
+| Lockheed Martin CyberQuest | TBD |2026|
 
 
