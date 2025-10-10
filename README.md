@@ -4,4 +4,6 @@ Our CIV collection of CTF writeups, feel free to send in your own solutions to b
 | Activity | Placement | Year|
 |---|---|---|
 | PicoCTF  | --------- |2025|
+| US Cyber Challenge | ---|2025|
+
 
