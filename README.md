@@ -1,5 +1,5 @@
 # CIV-CTF-Writeups-
-Our CIV collection of CTF writeups, feel free to email me your own solutions to be added to our club-wide repository! :)
+Our CIV collection of CTF writeups, feel free to email me for writeup requests or email me your own solutions to be added to our club-wide repository! :)
 
 ### Club Activities
 
