@@ -22,6 +22,24 @@ Cat.jpg should now be saved to your directory. You can access this file directly
 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-10%20193533.png?raw=true>)
 
+❗ The 'License' description of the image contains a suspicious sequence! 
+
+###--> If you are unfamiliar with cryptography (if you are familiar skip down to the next arrow):
+
+Use this website: https://www.dcode.fr/cipher-identifier 
+Paste the suspicious sequence into it and it will tell you the most likely encryption on the left. 
+It will then direct you to the appropriate decrypter. 
+
+
+
+
+
+###-->
+You'll likely recognize that this is a base64 sequence. 
+You can directly decipher the sequence in your webshell using the following command:
+echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
+     ^ paste the suspicious sequence here           ^ indicate the cipher
+     
 
 ### Reflections
 
