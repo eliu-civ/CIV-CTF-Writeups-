@@ -11,6 +11,9 @@ This is an introduction of format string vulnerabilities. Look up "format specif
 Hint 2: 
 Just try out the different options
 
+## Method Walkthrough 
+### Solving by Pico Browser Webshell
+
 First off, launch the challenge instance to see the neccessary source. 
 
 We are given a unique challenge instance (basically an access point that is different every time you launch a challenge instance):   nc mimas.picoctf.net 63511
