@@ -7,7 +7,7 @@ It's available by the same website as PicoCTF under the 'Practice' tab.
 Age group 13-17. Put your parent email as “ciphervanguard@gmail.com”!
 Enter your username with this format: Jane Doe = jdoe_civ
 
-→ firstletteroffirstnameLASTNAME_civ
+ firstletteroffirstnameLASTNAME_civ
 (this is the account you’ll use for PicoCTF during the regular season)
 
 The Pico Webshell!
