@@ -16,6 +16,7 @@ https://webshell.picoctf.org/
 You can also access it by clicking this button on the right side of your screen:
 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-11%20123255.png>)
+
 [Back to home](https://github.com/eliu-civ/CIV-CTF-Writeups-)
 
 
