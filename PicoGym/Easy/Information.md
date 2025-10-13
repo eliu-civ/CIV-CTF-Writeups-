@@ -22,7 +22,7 @@ Cat.jpg should now be saved to your directory. You can access this file directly
 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-10%20193533.png?raw=true>)
 
-❗ The 'License' description of the image contains a suspicious sequence! 
+### The 'License' description of the image contains a suspicious sequence! 
 
 ### If you are unfamiliar with cryptography (if you are familiar skip down to the next section):
 
@@ -32,7 +32,7 @@ It will then direct you to the appropriate decrypter.
 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-13%20105337.png>)
 
-Use the base64 decrypter (image on the right) to find the flag! 
+### Use the base64 decrypter (image on the right) to find the flag! 
 
 ### If you have some cryptography experience
 You'll likely recognize that this is a base64 sequence. 
