@@ -34,11 +34,10 @@ It will then direct you to the appropriate decrypter.
 
 ### Use the base64 decrypter (image on the right) to find the flag! 
 
-### If you have some cryptography experience
+### If you have some cryptography experience:
 You'll likely recognize that this is a base64 sequence. 
 You can directly decipher the sequence in your webshell using the following command:
-echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
-     ^ paste the suspicious sequence here           ^ indicate the cipher
+    echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
 
 ## All in all, you should finish with the correct flag picoCTF{the_m3tadata_1s_modified}!
 ### Congrats! You just found a flag! Submit it into the challenge. 
