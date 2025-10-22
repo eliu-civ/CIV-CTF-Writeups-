@@ -20,7 +20,7 @@ After decrypting the base64 sequence from the image meta, you should've gotten t
 We are given legible text saying 'Steghide'. You should've done research on this in-club and discovered that this is a steganography program that hides data in things like images! 
 
 Now, in CTFs, TRY EVERYTHING THAT'S SUSPICIOUS! 
-Usually, an equal sign is a key suspicious symbol of a cipher! Let's decrypt the second sequence given after the colon:
+Usually, an equal sign is a key suspicious indicator of a cipher! Let's decrypt the second sequence given after the colon:
 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-22%20162544.png>)
 
