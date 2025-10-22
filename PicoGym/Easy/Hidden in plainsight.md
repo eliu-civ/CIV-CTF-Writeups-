@@ -3,7 +3,7 @@ If you're reading this outside of club hours after our 'information' demo, email
 
 ## Challenge Name: Information
 Category: Forensics, 
-Solves: 135,732
+Solves: 2,669
 
 Challenge Description: 
 ![img](<https://github.com/eliu-civ/CIV-CTF-Writeups-/blob/main/PicoGym/Easy/Images/Screenshot%202025-10-22%20161300.png>)
