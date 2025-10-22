@@ -30,7 +30,7 @@ The best way to go from here is to directly use webshell commands.
 You should've downloaded img.jpg, so run the following to extract the flag with '-p' to give the passphrase we found:
 steghide extract -sf img.jpg -p pAzzword
 
-Bingo! We've been given the flag in a txt file!
+Bingo! We've been given the flag in a .txt file!
 
 You can view the file using 'nano filename' or 'cat filename'. 
 
