@@ -1,5 +1,5 @@
 🐣 You just found a special flag!
-If you're reading this outside of club hours after our 'information' demo, tell Emma civ{b3tt3r_7h4n_7h3_r35t} for a special treat next meeting! :)
+If you're reading this outside of club hours after our 'information' demo, show Emma civ{b3tt3r_7h4n_7h3_r35t} for a special treat next meeting! :)
 
 ## Challenge Name: Information
 Category: Forensics, 
