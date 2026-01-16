@@ -10,6 +10,7 @@ Our CIV collection of CTF writeups, feel free to email me for writeup requests o
 | PicoCTF  | TBD |2026|
 | US Cyber Challenge | TBD |2026|
 
+
 Current President: Emma Liu
 
 Current VP: Radheka Purohit
